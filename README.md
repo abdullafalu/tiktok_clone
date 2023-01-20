@@ -14,3 +14,4 @@
 ## Following Users
 ## Displaying Followers, Following, Likes & Posts of User
 ## TikTok Like UI
+## App launcher icon changed
