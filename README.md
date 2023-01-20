@@ -1,10 +1,6 @@
 # tiktok_clone
 
-A new Flutter project.
-
-## Getting Started
-
-## Features
+# Features
 
 ## Authentication with Email & Password
 ## Uploading Videos with Caption
