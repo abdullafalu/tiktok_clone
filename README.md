@@ -19,14 +19,14 @@
 # Screenshots
 <table>
     <tr>
-        <td><img src="assets/images/1.jpg" width="300" /></td>
-        <td><img src="assets/images/2.jpg" width="300" /></td>
-        <td><img src="assets/images/3.jpg" width="300" /></td>
+        <td><img src="asset/image/1.jpg" width="300" /></td>
+        <td><img src="asset/image/2.jpg" width="300" /></td>
+        <td><img src="asset/image/3.jpg" width="300" /></td>
     </tr>
     <tr>
-        <td><img src="assets/images/4.jpg" width="300" /></td>
-        <td><img src="assets/images/5.jpg" width="300" /></td>
-        <td><img src="assets/images/6.jpg" width="300" /></td>
-        <td><img src="assets/images/7.jpg" width="300" /></td>
+        <td><img src="asset/image/4.jpg" width="300" /></td>
+        <td><img src="asset/image/5.jpg" width="300" /></td>
+        <td><img src="asset/image/6.jpg" width="300" /></td>
+        <td><img src="asset/image/7.jpg" width="300" /></td>
     </tr>
 </table>
