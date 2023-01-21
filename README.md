@@ -2,7 +2,7 @@
 
 # Features
 
-## Authentication with Email & Password
+### Authentication with Email & Password
 ## Uploading Videos with Caption
 ## Compressing Videos
 ## Generating Thumbnails Out of Video
