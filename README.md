@@ -25,7 +25,6 @@
         <td><img src="asset/image/4.jpg" width="300" /></td>
     </tr>
     <tr>
-        
         <td><img src="asset/image/5.jpg" width="300" /></td>
         <td><img src="asset/image/6.jpg" width="300" /></td>
         <td><img src="asset/image/7.jpg" width="300" /></td>
